@@ -7,7 +7,7 @@ Exception handling is also done.
 
 ## Features
 
-- List with all users
+- List the all users
 - Chatting with all users
 - Delete/Unsend your messages
 - Edit Profile (Change Your DP/USERNAME/BIO)
